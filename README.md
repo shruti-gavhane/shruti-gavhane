@@ -1,5 +1,7 @@
 # Hi 👋, I'm Shruti Gavhane
 
+[![Portfolio Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=Portfolio)](https://personal-portfolio-builder--shrutibgavhane.replit.app/)
+
 <h3 align="center">AI/ML Engineer | Backend Developer | Building Production-Ready Intelligent Systems</h3>
 
 <p align="center">
